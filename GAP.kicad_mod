@@ -1,10 +1,10 @@
 (module GAP (layer F.Cu)
   (at 0 0)
   (fp_text reference GAP (at 0 -1.27) (layer F.SilkS) hide
-    (effects (font (size 0.508 0.508) (thickness 0.127)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL* (at 0.254 1.27) (layer F.SilkS) hide
-    (effects (font (size 0.508 0.508) (thickness 0.127)))
+  (fp_text value VAL** (at 0.254 1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.286 -0.762) (end 2.286 -0.762) (layer F.SilkS) (width 0.15))
   (fp_line (start 2.286 -0.762) (end 2.286 0.762) (layer F.SilkS) (width 0.15))

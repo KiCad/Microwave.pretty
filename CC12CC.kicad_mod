@@ -1,10 +1,10 @@
 (module CC12CC (layer F.Cu)
   (at 56.134 107.95)
-  (fp_text reference C** (at 0.127 -2.286) (layer F.SilkS) hide
-    (effects (font (size 1.016 1.016) (thickness 0.3048)))
+  (fp_text reference CC12CC (at 0.127 -2.286) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CC12CC (at 0 2.286) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.3048)))
+  (fp_text value VAL** (at 0 2.286) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.794 -1.27) (end 2.921 -1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start 2.921 -1.27) (end 2.921 1.27) (layer F.SilkS) (width 0.15))

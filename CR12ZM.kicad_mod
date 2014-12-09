@@ -1,10 +1,10 @@
 (module CR12ZM (layer F.Cu)
   (at 71.12 73.66)
-  (fp_text reference R** (at -1.016 -2.286) (layer F.SilkS) hide
-    (effects (font (size 1.016 1.016) (thickness 0.3048)))
+  (fp_text reference CR12ZM (at -1.016 -2.286) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CR12ZM (at -0.635 2.794) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.3048)))
+  (fp_text value VAL** (at -0.635 2.794) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4.445 -1.27) (end -4.445 1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start -4.445 1.27) (end 1.27 1.27) (layer F.SilkS) (width 0.15))

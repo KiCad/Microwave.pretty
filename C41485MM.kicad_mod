@@ -1,10 +1,10 @@
 (module C41485MM (layer F.Cu)
   (at 73.66 51.435)
-  (fp_text reference Q** (at -4.572 -4.826) (layer F.SilkS) hide
-    (effects (font (size 1.016 1.016) (thickness 0.3048)))
+  (fp_text reference C41485MM (at -4.572 -4.826) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value C41485MM (at 0.635 7.874) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.3048)))
+  (fp_text value VAL** (at 0.635 7.874) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6.985 -1.905) (end -6.985 1.905) (layer F.SilkS) (width 0.15))
   (fp_line (start -6.985 1.905) (end -1.905 1.905) (layer F.SilkS) (width 0.15))

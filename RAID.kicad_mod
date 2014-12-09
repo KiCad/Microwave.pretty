@@ -1,10 +1,10 @@
 (module RAID (layer F.Cu)
   (at 99.695 66.04)
   (fp_text reference RAID (at -0.635 1.905) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value *** (at -0.635 -1.27) (layer F.SilkS) hide
-    (effects (font (size 1.016 1.016) (thickness 0.3048)))
+  (fp_text value VAL** (at -0.635 -1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -7.7216 -1.905) (end -7.7216 -4.9022) (layer F.SilkS) (width 0.15))
   (fp_line (start -7.7216 -4.9022) (end 6.2738 -4.9022) (layer F.SilkS) (width 0.15))
