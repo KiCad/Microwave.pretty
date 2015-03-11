@@ -1,9 +1,9 @@
 (module C7812 (layer F.Cu)
   (at 104.14 45.72)
-  (fp_text reference C7812 (at 3.556 0 270) (layer F.SilkS) hide
+  (fp_text reference REF** (at 3.556 0 270) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -3.81 0 90) (layer F.SilkS)
+  (fp_text value C7812 (at -3.81 0 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.667 1.778) (end -2.667 1.905) (layer F.SilkS) (width 0.15))

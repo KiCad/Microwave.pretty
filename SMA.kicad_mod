@@ -1,9 +1,9 @@
 (module SMA (layer F.Cu)
   (at 95.25 45.72)
-  (fp_text reference SMA (at 0 -2.667) (layer F.SilkS) hide
+  (fp_text reference REF** (at 0 -2.667) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 3.048) (layer F.SilkS)
+  (fp_text value SMA (at 0 3.048) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.794 -1.778) (end 2.794 -1.778) (layer F.SilkS) (width 0.15))

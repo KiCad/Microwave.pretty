@@ -1,9 +1,9 @@
 (module CC08CC (layer F.Cu)
   (at 94.615 109.22)
-  (fp_text reference CC08CC (at -0.508 -2.413) (layer F.SilkS) hide
+  (fp_text reference REF** (at -0.508 -2.413) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -0.889 2.286) (layer F.SilkS)
+  (fp_text value CC08CC (at -0.889 2.286) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.54 1.27) (end -2.54 -1.27) (layer F.SilkS) (width 0.15))

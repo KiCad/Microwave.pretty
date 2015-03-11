@@ -1,9 +1,9 @@
 (module STUBCC (layer F.Cu)
   (at 102.235 83.566)
-  (fp_text reference STUBCC (at -4.826 2.921) (layer F.SilkS)
+  (fp_text reference REF** (at -4.826 2.921) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 4.191 2.921) (layer F.SilkS) hide
+  (fp_text value STUBCC (at 4.191 2.921) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -9.398 -1.778) (end -9.398 1.778) (layer F.SilkS) (width 0.15))
